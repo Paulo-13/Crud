@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI",
+    "\\WebAPI\\Controllers",
+    "\\WebAPI\\Service",
+    "\\WebAPI\\Service\\FuncionarioService"
+  ],
+  "SelectedNode": "\\WebAPI\\Service\\FuncionarioService\\IFuncionarioInterface.cs",
+  "PreviewInSolutionExplorer": false
+}
